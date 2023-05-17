@@ -1,2 +1,1484 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+<html lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATEŞ PATATESCİLİK</title>
+    <link rel="stylesheet" href="ürünler.css">
+    <script src="https://kit.fontawesome.com/c20485228a.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family= Fira+Sans:ital,wght@1,300 & display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <!-- header başlangıç-->
+  <header id="header">
+    <div id="black">
+
+    <div id="headerContainer">
+        <div id="headerTop">
+            <ul id="headerLeft">
+                <li><a href=""><i class="fa fa-phone"></i> +90 532 467 55 67</a></li>
+                <li><a href=""><i class="fa fa-envelope"></i> patatoss25@gmail.com</a></li>
+              
+            </ul>
+            <div id="headerRight">
+                    <div class="headerText"><p>Bizi Takip Edin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></div> 
+                        <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook-official"></i> </a>
+                        <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i> </a>
+                        <a href="https://twitter.com/"><i class="fa fa-twitter-square"></i> </a>
+                    </div>
+               
+            </div>
+               
+            </div>
+
+        
+        </div>
+        
+        
+    
+    </div>
+      <!-- nav başlangıç-->
+      <nav>
+        <div id="navContainer">
+                <ul id="navRight"> 
+                    <li>
+                     <a href="index.html"><i class="fas fa-home"></i> ANASAYFA</a>
+                    </li>
+                    <li>
+                        <a href="hakkımızda.html"><i class="fas fa-user"></i> HAKKIMIZDA</a>
+                    </li>
+                    
+                    <li>
+                        <a href="ürünler.html"><i class="fas fa-leaf"></i> ÜRÜNLER</a>
+                    </li>
+                
+                    <li>
+                        <a href="iletisim.html"><i class="fas fa-phone"></i> İLETİŞİM</a>
+                    </li>
+                </ul>
+                <form>
+                  
+                 </form>
+        </div>
+     
+    </nav>  
+    <div>
+      <div id="slider">
+        <div class="slayt"><img src="kırmızıpatates.jpg"/><h2>KIRMIZI PATATES</h2>
+          <p1> Kırmızı patates, sarı patates kabuğundan 
+            bir nebze daha kalın kabuğa sahiptir.
+            Yetiştiği topraklardan dolayı renginin turuncu
+             ve kırmızı olması açıklanmaktadır. 
+            Tıpkı yaygın tüketilen sarı patates gibi nişasta
+             içerir. Diğer patateslerden farkı;
+             ekonomik değerinin biraz daha yüksek olmasıdır.
+              Tadı hafif bir tatlı aromaya sahiptir.
+              Bu nedenle tatlı patates ile aromatik bir püre ve 
+              tatlı hazırlanabilir.Glisemik indeksi 
+              çok düşük olan olan kırmızı tatlı patates, dilenen
+               her şekilde pişirime uygundur.</p1>
+              </div>
+        <div class="slayt"><img src="morpatates.jpg" /> <h2>MOR PATATES</h2>
+          <p2>Tatlı patatesin uzaktan bir akrabası sayılan mor patates,
+             sağlığa olan faydaları sayesinde ilaç gibi etkileri olan 
+             bir patates türüdür. Mor patates olur mu diyenler için bu 
+             patatesin renk sırrını açıklayalım. Yetiştiği topraklarda
+              bulunan mineraller sayesinde mor rengini alan mor patates,
+              sonderece doğal bir besindir.</p2></div>
+        <div class="slayt"><img src="sarıbamba.jpg"/>    <h2>NAHİTA PATATES</h2>
+          <p>patates tohumundan üretilen yerli patates, Niğde bölgesinde
+            yaygın şekilde üretime geçen bir patates türüdür.Türkiye topraklarından
+            dünya ülkelerine açılmayı hedefleyen Nahita patatesi, üretimi yapıldığında
+            yüksek verim veren bir sebzedir. Kızartma ve yemeklik olarak tüketilmeye 
+            uygun olan Nahita patatesini Türkiye’de pek çok noktada temin
+            etme imkanınız bulunuyor. Yerli ve milli bir patates türü olduğu için;
+            ekonomik değeri de oldukça düşük. Niğdepatatesi ilkbahar döneminde ekilen,
+            düşük sıcaklıkta yetişen bir patatestir. </p> </div>
+        <div class="slayt"><img src="beyazfianna.jpg"/>    
+          <h2>BEYAZ FİANNA</h2>
+          <p5>
+            Çeşit çeşit patatesler arasında şimdi de beyaz patates karşınızda.
+             İçi ve dışı oldukça açık renkte olan beyaz patatesin tadı,
+             çok hafiftir. Kızartmalık patates arayanlar fianna patatesi
+              lezzetli öğünlerde tüketebilir. 
+          </p5></div>
+        <div class="slayt"><img src="niğdepatatesi.jpg"/>     <h2>SARI BAMBA</h2>
+          Sarı bamba patates, oval bir görünüme sahiptir. Kabuğunun rengi sarı tonlarını
+           taşıyor. Bazen sarı bazen çok açık sarı bir kabukla büyür. Kızartmalık ve yemeklik
+            patatesler arasında lezzetli bir tür olan bamba patates, besin değeri yüksek
+           bir türdür aynı zamanda. Ekildiğinde çok geç olgunlaşan bamba patates, ülkemizde
+            pazarlama alanı geniş olan bir patates çeşididi</p></div>
+        <div class="slayt"><img src="durabo.jpg"/>
+          <h2>DURABO</h2>
+          <p6>
+            Restoranlarda ve fast food duraklarında sık sık tüketilen parmak patates, 
+            genellikle durabo cinsi patatesten hazırlanmaktadır.İç dokusu açık sarı 
+            renge sahip olan durabo patatesin kabuğu da oldukça incedir. 
+            Kabuklu şekilde de tüketebileceğiniz durabo patatesi haşladığınızda,
+             kabuğunu kolayca soyabilirsiniz. 
+          </p6></div>
+        <div class="slayt"><img src="ladyrozetta.jpg" />
+          <h2>LADY ROZETTA</h2>
+          <p7>
+            Lady rosetta patatesi görenler hayret ediyor. Dışı kırmızı, içi sarı olan
+             bu patates sürprizlerle dolu. Lady rosetta patatesini kestiğinizde kırmızı 
+             ve sarı bir renk uyumu sizi karşılayacak. Kızartma ve cips yapımı için 
+             kullanılan bu patates çeşidi, orta boy büyüklüğe sahiptir. Parmak patates
+              kızartmak isteyenler lady rosettayı kabuğuyla beraber kızartıp tabaklarda
+               renkli bir sunum oluşturabilir. 
+          </p7></div>  
+      <div id="kontrol">
+        <a href="javascript:oncekiSlayt()"><</a>
+        <a href="javascript:sonrakiSlayt()">></a>
+      </div>
+      </div>
+  </div>
+  </div>
+  </div>
+</div>
+</div>
+</body>
+</html>
+</header>
+<style>
+  #slider {
+    font: 25px sans-serif;
+    margin: 0px auto;
+    position: relative;
+    width: 1000px;
+    height: 800px;
+    overflow: hidden;
+    float: center;
+    color: darkgreen;
+    border: 10px outset #044519;
+  
+  }
+
+  #kontrol {
+    position: absolute;
+    right: 0px;
+    bottom: 10px;
+    
+  }
+
+  #kontrol a {
+    color:  darkgreen;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+    text-decoration: none;
+  }
+  #slayt{
+    position: right;
+  }
+
+</style>
+<script>
+  "use strict";
+    var _slayt = document.getElementsByClassName("slayt");
+    var slaytSayisi = _slayt.length;
+    var slaytNo = 0;
+    var i = 0;
+  
+    slaytGoster(slaytNo);
+  
+    function sonrakiSlayt() {
+      slaytNo++;
+      slaytGoster(slaytNo);
+    }
+  
+    function oncekiSlayt() {
+      slaytNo--;
+      slaytGoster(slaytNo);
+    }
+    function slaytGoster(slaytNumarasi) {
+    slaytNo = slaytNumarasi;
+
+    if (slaytNumarasi >= slaytSayisi) slaytNo = 0;
+
+    if (slaytNumarasi < 0) slaytNo = slaytSayisi - 1;
+
+    for (i = 0; i < slaytSayisi; i++) {
+      _slayt[i].style.display = "none";
+    }
+
+    _slayt[slaytNo].style.display = "block";
+
+  }
+</script>
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+body{
+    font-family: sans-serif;
+}
+#header{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background: url(patates4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#black{
+    background-color: rgb(35, 36, 35);
+    opacity: 0.5;
+}
+#headerContainer{
+    width: 1346px;
+    height: 600px;
+    margin: auto;
+}
+#headerTop{
+    width: 1346px;
+    height: 50px;
+    position: relative;
+}
+#headerLeft{
+    list-style: none;
+    display: inline-block;
+   
+}
+#headerLeft li{
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 15px;
+}
+#headerLeft li a{
+    text-decoration: none;
+    color:white;
+}
+#headerLeft li:first-child{
+    padding-left: 0;
+}
+#headerLeft li:last-child{
+    border-right: 0;
+}
+#headerLeft li a:hover {
+    color: white;
+
+}
+
+.headerText{
+       color: white;
+       height: 50px;
+       line-height: 50px;
+       float: left;
+       margin-left: 20px;
+}
+nav{
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    top: 50px;
+}
+#navContainer{
+   width: 1346px;
+   height: 80px;
+   position: relative;
+   margin: auto;
+}
+#navRight{
+    float: right;
+}
+#navRight li{
+    display: inline-block;
+    line-height: 120px;
+    margin-left: 20px;
+}
+#navRight li a{
+    color: white;
+    text-decoration: none;
+}
+#navRight li a:hover{
+    color: rgb(2, 92, 58);
+}
+#navLeft{
+    float: left;
+}
+#navLeft li{
+    display: inline-block;
+    line-height: 120px;
+    margin-left: -120px;
+}
+#navLeft li a{
+    color: white;
+    text-decoration: none;
+}
+#navLeft li a:hover{
+    color: rgb(2, 92, 58);
+}
+#iletisim{
+    background-image: url();
+    background-size: cover;
+    padding: 50px;
+    height: auto;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+#iletisimh2{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+}
+#iletisimopak{
+    background: rgba(12, 12, 12, 0.4);
+    padding: 30px 29px;
+    border-radius: 5px;
+    height: 500px;
+    margin-top: 25px;
+}
+#formlar{
+    width: 700px;
+    float: left;
+    height: 500px;
+    text-align: center;
+    margin-top: 30px;
+}
+#solform{
+    width: 48%;
+    float: left;
+    margin-right: 15px;
+
+   
+}
+#sagform{
+    width: 48%;
+    float: right;
+    
+}
+.form-control{
+    width: 100%;
+    padding: 10px ;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(179, 136, 10);
+}
+textarea{
+    font-family: Arial;
+}
+input[type="submit"]
+{
+    cursor: pointer;
+    background-color: rgb(8, 7, 4);
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 15px;
+    
+}
+#adres{
+    color: rgb(255, 255, 255);
+    width: 450px;
+    float: right;
+    padding: 30px;
+    height: 500px;
+    text-align: left;
+    
+}
+#adresbaslig{
+    font-size: 35px;
+}
+.adresp{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    letter-spacing: 1.5px;
+}
+#anasayfa-paragraf{
+    padding: 90px;
+    text-align: center;  
+    text-transform: capitalize;
+    font-weight: 800;  
+    height: auto;
+    margin: auto;
+    width: 1000px; 
+    color: rgb(12, 191, 12); 
+}
+#anasayfa-paragraf h2{
+    font-size: 30px;
+}
+#up{
+    color: rgb(179, 136, 10);
+    border: 1px solid  rgb(179, 136, 10);
+    border-radius: 50%;
+    font-family: 15px;
+    padding: 7px 12px;
+    margin-top: 80px;
+}
+.yazi1{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.yazi2{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+
+
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATEŞ PATATESCİLİK</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/c20485228a.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family= Fira+Sans:ital,wght@1,300 & display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- header başlangıç-->
+  <header id="header">
+    <div id="black">
+
+    <div id="headerContainer">
+        <div id="headerTop">
+            <ul id="headerLeft">
+                <li><a href=""><i class="fa fa-phone"></i> +90 532 467 55 67</a></li>
+                <li><a href=""><i class="fa fa-envelope"></i> patatoss25@gmail.com</a></li>
+              
+            </ul>
+            <div id="headerRight">
+                    <div class="headerText"><p>Bizi Takip Edin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></div> 
+                        <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook-official"></i> </a>
+                        <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i> </a>
+                        <a href="https://twitter.com/"><i class="fa fa-twitter-square"></i> </a>
+                    </div>
+               
+            </div>
+               
+            </div>
+
+        
+        </div>
+        
+        
+    
+    </div>
+      <!-- nav başlangıç-->
+      <nav>
+        <div id="navContainer">
+                <ul id="navRight"> 
+                    <li>
+                     <a href="index.html"><i class="fas fa-home"></i> ANASAYFA</a>
+                    </li>
+                    <li>
+                        <a href="hakkımızda.html"><i class="fas fa-user"></i> HAKKIMIZDA</a>
+                    </li>
+                    
+                    <li>
+                        <a href="ürünler.html"><i class="fas fa-leaf"></i> ÜRÜNLER</a>
+                    </li>
+                
+                    <li>
+                        <a href="iletisim.html"><i class="fas fa-phone"></i> İLETİŞİM</a>
+                    </li>
+                </ul>
+                <form>
+                    <div id="box">
+                        <input type="text" id="search" placeholder="Ara..">
+                        <i class="fa fa-search"></i>
+                    </div>
+                    </div>
+                 </form>
+
+        </div>
+            
+    </nav>   
+</body>
+</html>
+</header>
+
+#box {
+    max-width: 300px;
+    position: relative;
+    }
+    #box .fa-search {
+    position: absolute;
+    top: 14px;
+    left: 12px;
+    font-size: 20px;
+    color:rgb(6, 101, 31);
+    }
+    #search {
+    width: 100px;
+    box-sizing: border-box;
+    border: 2px solid rgb(6, 101, 31);
+    border-radius: 4px;
+    font-size:18px;
+    padding: 12px 20px 12px 40px;
+    -moz-transition: width 0.4s ease-in-out;
+    -o-transition: width 0.4s ease-in-out;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    }
+    #search:focus {
+    width: 100%;
+    }
+    *{
+        padding: 0;
+        margin: 0;
+        border: 0;
+    
+    }
+    body{
+        font-family: sans-serif;
+    }
+    #header{
+        width: 100%;
+        height: 800px;
+        position: relative;
+        background: url(patates4.jpg);
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+    }
+    #black{
+        background-color: rgb(35, 36, 35);
+        opacity: 0.5;
+    }
+    #headerContainer{
+        width: 1346px;
+        height: 800px;
+        margin: auto;
+    }
+    #headerTop{
+        width: 1346px;
+        height: 50px;
+        position: relative;
+    }
+    #headerLeft{
+        list-style: none;
+        display: inline-block;
+       
+    }
+    #headerLeft li{
+        display: inline-block;
+        line-height: 50px;
+        padding: 0 15px;
+    }
+    #headerLeft li a{
+        text-decoration: none;
+        color:white;
+    }
+    #headerLeft li:first-child{
+        padding-left: 0;
+    }
+    #headerLeft li:last-child{
+        border-right: 0;
+    }
+    #headerLeft li a:hover {
+        color: white;
+    
+    }
+    
+    .headerText{
+           color: white;
+           height: 50px;
+           line-height: 50px;
+           float: left;
+           margin-left: 20px;
+    }
+    nav{
+        height: 120px;
+        width: 100%;
+        position: absolute;
+        background: rgba(255, 255, 255, 0.5);
+        top: 50px;
+    }
+    #navContainer{
+       width: 1346px;
+       height: 80px;
+       position: relative;
+       margin: auto;
+    }
+    #navRight{
+        float: right;
+    }
+    #navRight li{
+        display: inline-block;
+        line-height: 120px;
+        margin-left: 20px;
+    }
+    #navRight li a{
+        color: white;
+        text-decoration: none;
+    }
+    #navRight li a:hover{
+        color: rgb(2, 92, 58);
+    }
+    #navLeft{
+        float: left;
+    }
+    #navLeft li{
+        display: inline-block;
+        line-height: 120px;
+        margin-left: -120px;
+    }
+    #navLeft li a{
+        color: white;
+        text-decoration: none;
+    }
+    #navLeft li a:hover{
+        color: rgb(2, 92, 58);
+    }
+    #iletisim{
+        background-image: url();
+        background-size: cover;
+        padding: 50px;
+        height: auto;
+        text-align: center;
+        margin-top: 45px;
+        margin-bottom: 45px;
+    }
+    #iletisimh2{
+        color: rgb(0, 0, 0);
+        font-size: 35px;
+    }
+    #iletisimopak{
+        background: rgba(12, 12, 12, 0.4);
+        padding: 30px 29px;
+        border-radius: 5px;
+        height: 500px;
+        margin-top: 25px;
+    }
+    #formlar{
+        width: 700px;
+        float: left;
+        height: 500px;
+        text-align: center;
+        margin-top: 30px;
+    }
+    #solform{
+        width: 48%;
+        float: left;
+        margin-right: 15px;
+    
+       
+    }
+    #sagform{
+        width: 48%;
+        float: right;
+        
+    }
+    .form-control{
+        width: 100%;
+        padding: 10px ;
+        font-size: 15px;
+        line-height: 1.5;
+        color: black;
+        background-color: white;
+        margin: 10px;
+        border-radius: 5px;
+        border: 2px solid rgb(179, 136, 10);
+    }
+    textarea{
+        font-family: Arial;
+    }
+    input[type="submit"]
+    {
+        cursor: pointer;
+        background-color: rgb(8, 7, 4);
+        font-size: 18px;
+        letter-spacing: 1px;
+        padding: 10px 30px;
+        color: white;
+        border: 2px solid white;
+        border-radius: 5px;
+        margin-top: 15px;
+        
+    }
+    #adres{
+        color: rgb(255, 255, 255);
+        width: 450px;
+        float: right;
+        padding: 30px;
+        height: 500px;
+        text-align: left;
+        
+    }
+    #adresbaslig{
+        font-size: 35px;
+    }
+    .adresp{
+        color: rgb(255, 255, 255);
+        font-size: 25px;
+        letter-spacing: 1.5px;
+    }
+    #anasayfa-paragraf{
+        padding: 90px;
+        text-align: center;  
+        text-transform: capitalize;
+        font-weight: 800;  
+        height: auto;
+        margin: auto;
+        width: 1000px; 
+        color: rgb(12, 191, 12); 
+    }
+    #anasayfa-paragraf h2{
+        font-size: 30px;
+    }
+    #up{
+        color: rgb(179, 136, 10);
+        border: 1px solid  rgb(179, 136, 10);
+        border-radius: 50%;
+        font-family: 15px;
+        padding: 7px 12px;
+        margin-top: 80px;
+    }
+    .yazi1{
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+    .yazi2{
+        margin-left: 100px;
+        margin-top: 10px;
+    }
+    #image__img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+      }
+      
+    #image__img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        background-size: cover;
+      }
+      
+    #image {
+        position: relative;
+        width: 100%;
+        cursor: pointer;
+      }
+     #image__overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.6);
+        color: #ffffff;
+        font-family: "Quicksand", sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        transition: opacity 0.25s;
+      }
+      
+    #image__overlay {
+        opacity: 0;
+      }
+      
+    #image__overlay:hover {
+        opacity: 1;
+      }
+      
+    #image__overlay--blur {
+        backdrop-filter: blur(5px);
+      }
+      
+    #image__overlay--solid {
+        background: #c51f5d;
+      }
+      
+    h3 {
+        font-weight: bold;
+        padding: 0 0 0.5rem;
+      }
+    main {
+        padding: 1rem;
+        width: 512px;
+        height: 340px;
+      }
+      
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATEŞ PATATESCİLİK</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/c20485228a.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family= Fira+Sans:ital,wght@1,300 & display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- header başlangıç-->
+  <header id="header">
+    <div id="black">
+
+    <div id="headerContainer">
+        <div id="headerTop">
+            <ul id="headerLeft">
+                <li><a href=""><i class="fa fa-phone"></i> +90 532 467 55 67</a></li>
+                <li><a href=""><i class="fa fa-envelope"></i> patatoss25@gmail.com</a></li>
+              
+            </ul>
+            <div id="headerRight">
+                    <div class="headerText"><p>Bizi Takip Edin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></div> 
+                        <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook-official"></i> </a>
+                        <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i> </a>
+                        <a href="https://twitter.com/"><i class="fa fa-twitter-square"></i> </a>
+                    </div>
+               
+            </div>
+               
+            </div>
+
+        
+        </div>
+        
+        
+    
+    </div>
+      <!-- nav başlangıç-->
+      <nav>
+        <div id="navContainer">
+                <ul id="navRight"> 
+                    <li>
+                     <a href="index.html"><i class="fas fa-home"></i> ANASAYFA</a>
+                    </li>
+                    <li>
+                        <a href="hakkımızda.html"><i class="fas fa-user"></i> HAKKIMIZDA</a>
+                    </li>
+                    
+                    <li>
+                        <a href="ürünler.html"><i class="fas fa-leaf"></i> ÜRÜNLER</a>
+                    </li>
+                
+                    <li>
+                        <a href="iletisim.html"><i class="fas fa-phone"></i> İLETİŞİM</a>
+                    </li>
+                </ul>
+                <form>
+                    <div id="box">
+                        <input type="text" id="search" placeholder="Ara..">
+                        <i class="fa fa-search"></i>
+                    </div>
+                    <div id="anasayfa-paragraf">
+                        <br>
+                        <p>Patates ve ayçiçeği üretiminde ülkemizin önde gelen ilçelerinden biri olan Pasinler `de 1990`dan bu yana faaliyet göstermekteyiz.  </p>
+                        <br>
+                        <p>Müşterilerimize en iyi hizmeti vermek adına kendi üretmiş olduğumuz organik tohumlarımızla Pasinler ovasının bereketli topraklarında son derece sağlıklı ve güvenilir ürünler elde etmekteyiz </p>
+                        <br>
+                        <p>Sizlerde bu sağlıklı ve güvenilir ürünleri deneyimleyip hayatınızda yer etmesini istiyorsanız hemen ATEŞ PATATESCİLİK sitemizi ziyaret edebilir ve ürünlerimizden gönül rahatlığıyla yararlanabilirsiniz.</p>
+                    </div>
+                 </form>
+
+        </div>
+            
+    </nav>   
+</body>
+</html>
+</header>
+
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+body{
+    font-family: sans-serif;
+}
+#header{
+    width: 100%;
+    height: 800px;
+    position: relative;
+    background: url(patates4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#black{
+    background-color: black;
+    opacity: 0.5;
+}
+#headerContainer{
+    width: 1346px;
+    height: 600px;
+    margin: auto;
+}
+#headerTop{
+    width: 1346px;
+    height: 50px;
+    position: relative;
+}
+#headerLeft{
+    list-style: none;
+    display: inline-block;
+   
+}
+#headerLeft li{
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 15px;
+}
+#headerLeft li a{
+    text-decoration: none;
+    color:white;
+}
+#headerLeft li:first-child{
+    padding-left: 0;
+}
+#headerLeft li:last-child{
+    border-right: 0;
+}
+#headerLeft li a:hover {
+    color: white;
+
+}
+
+.headerText{
+       color: white;
+       height: 50px;
+       line-height: 50px;
+       float: left;
+       margin-left: 20px;
+}
+nav{
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    top: 50px;
+}
+#navContainer{
+   width: 1346px;
+   height: 80px;
+   position: relative;
+   margin: auto;
+}
+#navRight{
+    float: right;
+}
+#navRight li{
+    display: inline-block;
+    line-height: 120px;
+    margin-left: 20px;
+}
+#navRight li a{
+    color: white;
+    text-decoration: none;
+}
+#navRight li a:hover{
+    color: rgb(2, 92, 58);
+}
+#navLeft{
+    float: left;
+}
+#navLeft li{
+    display: inline-block;
+    line-height: 120px;
+    margin-left: -120px;
+}
+#navLeft li a{
+    color: white;
+    text-decoration: none;
+}
+#navLeft li a:hover{
+    color: rgb(2, 92, 58);
+}
+#iletisim{
+    background-image: url();
+    background-size: cover;
+    padding: 50px;
+    height: auto;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+#iletisimh2{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+}
+#iletisimopak{
+    background: rgba(12, 12, 12, 0.4);
+    padding: 30px 29px;
+    border-radius: 5px;
+    height: 500px;
+    margin-top: 25px;
+}
+#formlar{
+    width: 700px;
+    float: left;
+    height: 500px;
+    text-align: center;
+    margin-top: 30px;
+}
+#solform{
+    width: 48%;
+    float: left;
+    margin-right: 15px;
+
+   
+}
+#sagform{
+    width: 48%;
+    float: right;
+    
+}
+.form-control{
+    width: 100%;
+    padding: 10px ;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(179, 136, 10);
+}
+textarea{
+    font-family: Arial;
+}
+input[type="submit"]
+{
+    cursor: pointer;
+    background-color: rgb(8, 7, 4);
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 15px;
+    
+}
+#adres{
+    color: rgb(255, 255, 255);
+    width: 450px;
+    float: right;
+    padding: 30px;
+    height: 500px;
+    text-align: left;
+    
+}
+#adresbaslig{
+    font-size: 35px;
+}
+.adresp{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    letter-spacing: 1.5px;
+}
+#anasayfa-paragraf{
+    padding: 50px;
+    text-align: center;  
+    text-transform: capitalize;
+    font-weight: 600;  
+    height: auto;
+    margin: auto;
+    width: 1200px;  
+}
+#anasayfa-paragraf h2{
+    font-size: 30px;
+}
+#up{
+    color: rgb(179, 136, 10);
+    border: 1px solid  rgb(179, 136, 10);
+    border-radius: 50%;
+    font-family: 15px;
+    padding: 7px 12px;
+    margin-top: 80px;
+}
+.yazi1{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.yazi2{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ATEŞ PATATESCİLİK</title>
+    <link rel="stylesheet" href="iletisim.css">
+    <link rel="index.html">
+    <script src="https://kit.fontawesome.com/c20485228a.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https: //fonts.googleapis.com/css2? family= Fira+Sans:ital,wght@1,300 & display=swap" rel="stylesheet">
+</head>
+<body>
+   <!-- header başlangıç-->
+   <header id="header">
+    <div id="black">
+
+    <div id="headerContainer">
+        <div id="headerTop">
+            <ul id="headerLeft">
+                <li><a href=""><i class="fa fa-phone"></i> +90 532 467 55 67</a></li>
+                <li><a href=""><i class="fa fa-envelope"></i> patatoss25@.com</a></li>
+              
+            </ul>
+            <div id="headerRight">
+                <div class="headerLogo">
+                    <div class="headerText"><p>Bizi Takip Edin &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></div> 
+                        <a href="https://tr-tr.facebook.com/"><i class="fa fa-facebook-official"></i> </a>
+                        <a href="https://www.instagram.com/"><i class="fa fa-instagram"></i> </a>
+                        <a href="https://twitter.com/"><i class="fa fa-twitter-square"></i> </a>
+                    </div>
+               
+            </div>
+               
+            </div>
+
+        
+        </div>
+        
+        
+    
+    </div>
+
+    <!-- nav başlangıç-->
+    <nav>
+        <div id="navContainer">
+
+
+           
+                <ul id="navLeft">
+                    <li>
+                    <div id="navLogo"><img src="logo.jpg" alt="" width="120" height="120"></div>
+                    </li>
+                </ul>  
+               
+                <ul id="navRight"> 
+                    <li>
+                     <a href="index.html"><i class="fas fa-home"></i> ANASAYFA</a>
+                    </li>
+                    <li>
+                        <a href="hakkımızda.html"><i class="fas fa-user"></i> HAKKIMIZDA</a>
+                    </li>
+                    
+                    <li>
+                        <a href="ürünler.html"><i class="fas fa-leaf"></i> ÜRÜNLER</a>
+                    </li>
+                
+                    <li>
+                        <a href="iletisim.html"><i class="fas fa-phone"></i> İLETİŞİM</a>
+                    </li>
+                </ul>
+
+        </div>
+            
+    </nav>
+  
+
+</div>  
+</header> 
+
+<section id="iletisim">
+    <div class="container-iletisim">
+        <h2 id="iletisimh2">İletişim</h2>
+        <form action="ayarlar/settings.php"  method="POST" >
+        <div id="iletisimopak">
+       
+            <div id="formlar"> 
+               <div id="solform">
+                   <input type="text" name="isim" placeholder="Ad Soyad" required class="form-control">
+                   <input type="text" name="tel" placeholder="Telefon Numarası" required class="form-control">
+
+               </div>
+               <div id="sagform">
+               <input type="email" name="mail" placeholder="E-mail Adresiniz" required class="form-control">
+               <input type="text" name="konu" placeholder="Konu Başlığı" required class="form-control">
+               </div>
+               <textarea name="konu_icerigi"  id="" cols="30" placeholder="Mesaj Giriniz" rows="10"  required class="form-control"></textarea>
+               <input type="submit"  name="message" value="Gönder">
+              
+
+
+            </div>
+                                 
+            </form> 
+            <div id="adres">
+                <h2 id="adresbaslig">Adres:</h2>
+                <br>
+                <p class="adresp"><i class="fa fa-map-marker"></i> ALVAR MAH. NO:11</p>
+                <br>
+                <p class="adresp"><i class="fa fa-location-arrow"></i> PASİNLER/ERZURUM</p>
+                <br>
+                <p class="adresp"><i class="fa fa-phone"></i> +90 532 467 55 67</p>
+                <br>
+                <p class="adresp"><i class="fa fa-envelope"></i> E-mail:patatoss25@gmail.com</p>
+            </div>
+            
+        </div>
+    </div>
+
+</section>
+<iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d47546.6637134135!2d41.621023!3d39.934617!3m2!1i1024!2i768!4f13.1!5e1!3m2!1str!2str!4v1677103390558!5m2!1str!2str" width="1500" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></iframe>
+</body>
+</html>
+
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+
+}
+body{
+    font-family: sans-serif;
+}
+#header{
+    width: 100%;
+    height: 600px;
+    position: relative;
+    background: url(patates4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#black{
+    background-color: black;
+    opacity: 0.5;
+}
+#headerContainer{
+    width: 1346px;
+    height: 600px;
+    margin: auto;
+}
+#headerTop{
+    width: 1346px;
+    height: 50px;
+    position: relative;
+}
+#headerLeft{
+    list-style: none;
+    display: inline-block;
+   
+}
+#headerLeft li{
+    display: inline-block;
+    line-height: 50px;
+    padding: 0 15px;
+}
+#headerLeft li a{
+    text-decoration: none;
+    color:white;
+}
+#headerLeft li:first-child{
+    padding-left: 0;
+}
+#headerLeft li:last-child{
+    border-right: 0;
+}
+#headerLeft li a:hover {
+    color: white;
+
+}
+
+    
+
+
+.headerText{
+       color: white;
+       height: 50px;
+       line-height: 50px;
+       float: left;
+       margin-left: 20px;
+}
+nav{
+    height: 120px;
+    width: 100%;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.5);
+    top: 50px;
+}
+#navContainer{
+   width: 1346px;
+   height: 80px;
+   position: relative;
+   margin: auto;
+}
+#navRight{
+    float: right;
+}
+#navRight li{
+    display: inline-block;
+    line-height: 120px;
+    margin-left: 20px;
+}
+#navRight li a{
+    color: white;
+    text-decoration: none;
+}
+#navRight li a:hover{
+    color: rgb(2, 92, 58);
+}
+#navLeft{
+    float: left;
+}
+#navLeft li{
+    display: inline-block;
+    line-height: 120px;
+    margin-left: -120px;
+}
+#navLeft li a{
+    color: white;
+    text-decoration: none;
+}
+#navLeft li a:hover{
+    color: rgb(2, 92, 58);
+}
+#iletisim{
+    background-image: url();
+    background-size: cover;
+    padding: 50px;
+    height: auto;
+    text-align: center;
+    margin-top: 45px;
+    margin-bottom: 45px;
+}
+#iletisimh2{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+}
+#iletisimopak{
+    background: rgba(12, 12, 12, 0.4);
+    padding: 30px 29px;
+    border-radius: 5px;
+    height: 500px;
+    margin-top: 25px;
+}
+#formlar{
+    width: 700px;
+    float: left;
+    height: 500px;
+    text-align: center;
+    margin-top: 30px;
+}
+#solform{
+    width: 48%;
+    float: left;
+    margin-right: 15px;
+
+   
+}
+#sagform{
+    width: 48%;
+    float: right;
+    
+}
+.form-control{
+    width: 100%;
+    padding: 10px ;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+    background-color: white;
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(179, 136, 10);
+}
+textarea{
+    font-family: Arial;
+}
+input[type="submit"]
+{
+    cursor: pointer;
+    background-color: rgb(8, 7, 4);
+    font-size: 18px;
+    letter-spacing: 1px;
+    padding: 10px 30px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 5px;
+    margin-top: 15px;
+    
+}
+#adres{
+    color: rgb(255, 255, 255);
+    width: 450px;
+    float: right;
+    padding: 30px;
+    height: 500px;
+    text-align: left;
+    
+}
+#adresbaslig{
+    font-size: 35px;
+}
+.adresp{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    letter-spacing: 1.5px;
+}
+#anasayfa-paragraf{
+    padding: 50px;
+    text-align: center;  
+    text-transform: capitalize;
+    font-weight: 600;  
+    height: auto;
+    margin: auto;
+    width: 1200px;  
+}
+#anasayfa-paragraf h2{
+    font-size: 30px;
+}
+#up{
+    color: rgb(179, 136, 10);
+    border: 1px solid  rgb(179, 136, 10);
+    border-radius: 50%;
+    font-family: 15px;
+    padding: 7px 12px;
+    margin-top: 80px;
+}
+.yazi1{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.yazi2{
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+  
